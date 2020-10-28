@@ -79,8 +79,9 @@ input, select, textarea {
     width: 900px;
     
 }
-testUros{
-    width: 900px;
+.kontakt{
+   margin: 10px;
+    font-size: 30px;
 }
 /* Basic */
 
